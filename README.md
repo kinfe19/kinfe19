@@ -10,7 +10,6 @@ Computer Science and Engineering Student @ Adama Science and Technology Universi
 # Skills and Experience
 
 -   Web Development
--   word-press
 -   Django
 -   Data Structures and Algorithms
 -   Flutter
