@@ -11,6 +11,7 @@ Computer Science and Engineering Student @ Adama Science and Technology Universi
 
 -   Web Development
 -   Django
+-   Canva Design
 -   Data Structures and Algorithms
 -   Flutter
 -   Programming Languages: Python, C++, JavaScript, Java.
