@@ -9,11 +9,12 @@ Computer Science and Engineer @ Adama Science and Technology University
 
 # Skills and Experience
 
+-   Competitive Programmer
+-   Machine learning
 -   Web Development
 -   Django
 -   Canva Design
 -   Data Structures and Algorithms
--   Flutter
 -   Programming Languages: Python, C++, JavaScript, Java.
 -   Version Control System, Git & GitHub
 
