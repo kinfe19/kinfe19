@@ -29,4 +29,3 @@ Computer Science and Engineer @ Adama Science and Technology University
   </a>
 
 
-<img align="center" src="https://camo.githubusercontent.com/2c2b2675262da1f4c98d6b645981e829bd7a600eb3bfa385fc078737c6c55f8c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26" alt="mukerem" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mukerem&amp;" style="max-width: 100%;">
