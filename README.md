@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 # I'm Kinfe Masrie
-Computer Science and Engineer @ Adama Science and Technology University
-
+Computer Science and Engineer
 [Linkedin](https://www.linkedin.com/in/kinfe-masrie-22512920b/) | [Telegram](https://t.me/kinfe_19) | [Instagram](https://www.instagram.com/kinfe_19/) | [twitter](https://twitter.com/Kinfe_19)  
 
 <img src="https://camo.githubusercontent.com/d8fffd69bd398d940f44e3a324954a3f61c672e15f276501971ef416305ccc96/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4241636f64652d58" alt="BAcode-X" data-canonical-src="https://github-profile-trophy.vercel.app/?username=BAcode-X" style="max-width: 100%;">
