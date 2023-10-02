@@ -20,13 +20,9 @@
 <img src="https://camo.githubusercontent.com/d8fffd69bd398d940f44e3a324954a3f61c672e15f276501971ef416305ccc96/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4241636f64652d58" alt="BAcode-X" data-canonical-src="https://github-profile-trophy.vercel.app/?username=BAcode-X" style="max-width: 100%;">
 
 <p align="center">
-I'm excited to be a data scientist, competitive programmer, and software
-development expert, bringing a wealth of skills in software design, development,
-and integration. With over 4 years of hands-on experience, I've been actively
-involved in coding, designing, deploying, and debugging complex back-end
-projects using the Python language. Collaborating with various clients, I've
-successfully identified their needs and goals to craft robust web application backend
-components.
+I'm really happy to work as a data scientist, competitive programmer, and software development expert. This means I have a lot of skills in making computer programs and software. I've been doing this for more than four years, and during that time, I've been busy writing, designing, putting into action, and fixing complicated computer projects that work behind the scenes. I use a computer language called Python for this work.
+
+I've also been working with different clients, and I'm good at understanding what they want and what they're trying to achieve. This helps me create strong parts of websites and applications that run smoothly in the background.
 </p>
 <div align="center">
   <a href="https://www.python.org" rel="nofollow"> 
