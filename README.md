@@ -2,7 +2,7 @@
 
 # I'm Kinfe Masrie
 <br> <br>
-## I'm 
+## I'm actively involved in  sparkles
 <p dir="auto" align="center">
   <a href="https://camo.githubusercontent.com/289c972697635b040704de4cfcb568e9f4fc0a5ae941d46e28fe5fe68072d10f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d7075746572253230456e67696e6565722de29e952d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b266c6162656c436f6c6f723d677265656e26636f6c6f723d666666666666" rel="nofollow"><img src="https://camo.githubusercontent.com/289c972697635b040704de4cfcb568e9f4fc0a5ae941d46e28fe5fe68072d10f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d7075746572253230456e67696e6565722de29e952d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b266c6162656c436f6c6f723d677265656e26636f6c6f723d666666666666" style="max-width: 100%;"></a><a href="https://camo.githubusercontent.com/20122788d4b580733d3a5220561c3e7419ba5e18072e37af8b0704d614379605/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e253230446576656c6f7065722de29e952d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6162656c436f6c6f723d66666666303026636f6c6f723d666666666666" rel="nofollow"><img src="https://camo.githubusercontent.com/20122788d4b580733d3a5220561c3e7419ba5e18072e37af8b0704d614379605/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e253230446576656c6f7065722de29e952d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6162656c436f6c6f723d66666666303026636f6c6f723d666666666666" style="max-width: 100%;"></a><a href="https://camo.githubusercontent.com/1bfed4e4d3e2173cbf7f7c19be61d55c3a5607e1169da2b7edd2a952f14d18de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d706574697469766525323050726f6772616d65722d2d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d61636d266c6162656c436f6c6f723d72656426636f6c6f723d323232373265" rel="nofollow"><img src="https://camo.githubusercontent.com/1bfed4e4d3e2173cbf7f7c19be61d55c3a5607e1169da2b7edd2a952f14d18de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d706574697469766525323050726f6772616d65722d2d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d61636d266c6162656c436f6c6f723d72656426636f6c6f723d323232373265" style="max-width: 100%;"></a> 
 </p>
@@ -17,7 +17,7 @@
 
 <img src="https://camo.githubusercontent.com/d8fffd69bd398d940f44e3a324954a3f61c672e15f276501971ef416305ccc96/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4241636f64652d58" alt="BAcode-X" data-canonical-src="https://github-profile-trophy.vercel.app/?username=BAcode-X" style="max-width: 100%;">
 
-<p align="center">>
+<p align="center">
 I'm excited to be a data scientist, competitive programmer, and software
 development expert, bringing a wealth of skills in software design, development,
 and integration. With over 4 years of hands-on experience, I've been actively
@@ -26,7 +26,7 @@ projects using the Python language. Collaborating with various clients, I've
 successfully identified their needs and goals to craft robust web application backend
 components.
 </p>
-<div align="center">>
+<div align="center">
   <a href="https://www.python.org" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> 
   </a><a href="https://getbootstrap.com" rel="nofollow"> 
@@ -37,7 +37,7 @@ components.
   </a>
   </div>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c2b2675262da1f4c98d6b645981e829bd7a600eb3bfa385fc078737c6c55f8c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26"><img align="center" src="https://camo.githubusercontent.com/2c2b2675262da1f4c98d6b645981e829bd7a600eb3bfa385fc078737c6c55f8c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26" alt="mukerem" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mukerem&amp;" style="max-width: 100%;"></a></p>
+<p  align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c2b2675262da1f4c98d6b645981e829bd7a600eb3bfa385fc078737c6c55f8c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26"><img align="center" src="https://camo.githubusercontent.com/2c2b2675262da1f4c98d6b645981e829bd7a600eb3bfa385fc078737c6c55f8c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26" alt="mukerem" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mukerem&amp;" style="max-width: 100%;"></a></p>
 
 
 <div align="center" dir="auto">
