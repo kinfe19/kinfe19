@@ -2,7 +2,14 @@
 
 # I'm Kinfe Masrie
 Computer Science and Engineer
-[Linkedin](https://www.linkedin.com/in/kinfe-masrie-22512920b/) | [Telegram](https://t.me/kinfe_19) | [Instagram](https://www.instagram.com/kinfe_19/) | [twitter](https://twitter.com/Kinfe_19)  
+ [Instagram](https://www.instagram.com/kinfe_19/)  
+<p dir="auto" align="center">
+  <a href="https://github.com/Kinfe19"><img src="https://github.com/fluidicon.png" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kinfe-masrie-22512920b/" rel="nofollow"><img src="https://camo.githubusercontent.com/68b6b1fabe852c6adf8f319b6a7fcb187504989ad5c9495a4e0666f292c72278/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f696e6669636f6e732f3531322f6c696e6b6564696e2e706e67" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/kin_19" rel="nofollow"><img src="https://camo.githubusercontent.com/4339949bfd10b0f790bd7df45f0cb9c498cded2e613b4740c94617ef83e1548c/68747470733a2f2f74656c656772616d2e6f72672f696d672f776562736974655f69636f6e2e737667" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/kinfe masrie" rel="nofollow"><img src="https://camo.githubusercontent.com/6eca6b67ba0caa7343b88b7769e6521863bc9023c93acc80ec3e3ee95d6911c6/68747470733a2f2f7374617469632e78782e666263646e2e6e65742f727372632e7068702f79442f722f64345a4956582d35432d622e69636f" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Kinfe_19" rel="nofollow"><img src="https://camo.githubusercontent.com/31a742affd790d0cca965213f3fa59cc4ee09401d102590c508ae9d77023360c/68747470733a2f2f6162732e7477696d672e636f6d2f66617669636f6e732f747769747465722e322e69636f" height="50" style="max-width: 100%;"></a>
+</p>
 
 <img src="https://camo.githubusercontent.com/d8fffd69bd398d940f44e3a324954a3f61c672e15f276501971ef416305ccc96/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4241636f64652d58" alt="BAcode-X" data-canonical-src="https://github-profile-trophy.vercel.app/?username=BAcode-X" style="max-width: 100%;">
 
