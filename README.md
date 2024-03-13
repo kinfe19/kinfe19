@@ -22,6 +22,7 @@ I've also been working with different clients, and I'm good at understanding wha
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
   </div>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3574684d5cfa79b2eb211750646ea8b9d0ae500d6cb8bbcc232c8f10619a2b37/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26"><img align="center" src="https://camo.githubusercontent.com/3574684d5cfa79b2eb211750646ea8b9d0ae500d6cb8bbcc232c8f10619a2b37/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26" alt="mukerem" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mukerem&amp;" style="max-width: 100%;"></a></p>
 
 
 
