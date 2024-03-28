@@ -3,13 +3,13 @@
 # I'm Kinfe Masrie
 <be>
 
-<p dir="auto">💬 Ask me anything about HTML, CSS, JavaScript, Django,Ml and datascience other Web technologies.</p>
+<p dir="auto">💬 Ask me anything about HTML, CSS, JavaScript, Django, Flutter, Ml other Web technologies.</p>
 <ul dir="auto">
 <li>
 <p dir="auto">🔭 I’m a Computer Science and Engineer </p>
 </li>
 <li>
-<p dir="auto">🌱 Looking to collaborate on Django, Python,Mland datascience Html, CSS, Javascript, bootstrap</p>
+<p dir="auto">🌱 Looking to collaborate on Django, Python,flutter  Html, CSS, Javascript, bootstrap, Ml and datascience</p>
 </li>
 
 <li>
