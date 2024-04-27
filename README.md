@@ -40,7 +40,7 @@
     </a>
 </p>
 
-'''html 
+ <!--
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=kinfe19&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;">
-</div>'''
+</div>'-->
