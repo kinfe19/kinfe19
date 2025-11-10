@@ -9,7 +9,8 @@
 <p dir="auto">🔭 I’m a Computer Science and Engineer </p>
 </li>
 <li>
-<p dir="auto">🌱 Looking to collaborate on Django, Python,flutter  Html, CSS, Javascript, bootstrap, Ml and datascience</p>
+<p dir="auto">🌱 Looking to collaborate on Django, Python, AI Chatbot + Automation Developer
+</p>
 </li>
 
 <li>
