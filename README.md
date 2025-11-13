@@ -3,7 +3,6 @@
 # I'm Kinfe Masrie
 <be>
 
-<p dir="auto">💬 Ask me anything about HTML, CSS, JavaScript, Django, Flutter, Ml other Web technologies.</p>
 <ul dir="auto">
 <li>
 <p dir="auto">🔭 I’m a Computer Science and Engineer </p>
